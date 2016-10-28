@@ -1,0 +1,18 @@
+
+
+#cardTable {
+	width:400px;
+	height:300px;
+	background-color:green;
+	text-align:center;
+	padding:20px;
+	border:20px solid brown;
+}
+#cardTable img{
+	width:90px;
+}
+
+#cardTable h3{
+	color:white;
+}
+
